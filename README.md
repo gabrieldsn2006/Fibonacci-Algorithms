@@ -2,6 +2,8 @@
 
 Esse repositório contém diferentes implementações para uma função que retorna o N-ésimo termo da sequência de Fibonacci. Além de uma análise de complexidade e demonstração via técnicas algébricas.
 
+<img src="./img.png">
+
 <hr>
 
 ## Arquivos
